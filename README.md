@@ -226,7 +226,7 @@ Note : Python 3.6 is required to build this project, as some of the libraries re
 
 10. enchant -> pip install pyenchant (Python bindings for the Enchant spellchecking system)
 
-11. hunspell -> pip install cyhunspell (A wrapper on hunspell for use in Python)
+11. hunspell -> pip install cyhunspell (A wrapper on hunspell for use in Python) supports python 3.8.0 versions and below
 ```
 
 ## Running the Project 
@@ -236,7 +236,7 @@ python /path/to/the/Application.py
 ```
 # License
 
-Copyright (c) 2021 Nikhil Gupta
+Copyright (c) 2023 Kamlesh Kumar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
